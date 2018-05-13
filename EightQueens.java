@@ -1,5 +1,3 @@
-package exercise1;
-
 public class EightQueens {
 	static int count=0;
 	public static int CHESSBOARD_SIZE = 3;
